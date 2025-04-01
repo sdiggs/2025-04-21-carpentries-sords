@@ -91,6 +91,7 @@ the pitch.
 {% endcomment %}
 
 <p>
+This workshop is a collaboration between the <a href="https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative">Generalist Repository Ecosystem Initiative (GREI)</a> and The Carpentries, as part of a shared effort to explore how training can better reflect the role and value of generalist repositories in the research lifecycle. Through this partnership, we aim to identify opportunities for integrating generalist repositories into data skills curricula and supporting sustainable, community-driven training that aligns with open science practices.
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
